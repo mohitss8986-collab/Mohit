@@ -1,0 +1,6 @@
+{
+  "name": "Be u Studio Unisex Salon",
+  "description": "Official app for Be u Studio Unisex Salon (बे यू स्टूडियो यूनिसेक्स सैलून) at 7th Avenue High Street, Greater Noida. Book haircuts, styling, makeup, grooming, read reviews, and explore services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
